@@ -1,7 +1,7 @@
 {
   "name": "new_react_app",
   "version": "1.0.0",
-  "description": "React/Redux app",
+  "description": "React/Redux/Typescript app",
   "main": "index.tsx",
   "scripts": {
     "start": "webpack-dev-server",
